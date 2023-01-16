@@ -17,4 +17,4 @@ for(let i=0; i<n;i++) {
     nums[i] = prompt("Enter value for cell " + i + " : ")
 }
 
-document.getElementById("demo1").innerHTML= getSecondLargest(nums)
+document.getElementById("demo1").innerHTML = getSecondLargest(nums)
